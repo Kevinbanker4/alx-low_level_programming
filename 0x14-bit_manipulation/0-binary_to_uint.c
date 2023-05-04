@@ -3,7 +3,7 @@
  * binary_to_uint - converts a binary to an unsigned int
  * @b: pointer to binary number to be converted
  *
- * Return: converted number as an unsigned int, or 0 if 
+ * Return: converted number as an unsigned int, or 0 if
  *        there is an invalid character or if b is NULL
  */
 unsigned int binary_to_uint(const char *b)
