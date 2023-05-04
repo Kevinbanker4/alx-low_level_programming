@@ -10,6 +10,6 @@
  */
 int _putchar(char c)
 {
-    /* write the character to standard output */
+/* write the character to standard output */
 	return (write(1, &c, 1));
 }
